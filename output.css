@@ -717,6 +717,10 @@ video {
   line-height: 1rem;
 }
 
+.leading-7{
+  line-height: 1.75rem;
+}
+
 .text-Slate900{
   --tw-text-opacity: 1;
   color: hsl(218 44% 22% / var(--tw-text-opacity));
